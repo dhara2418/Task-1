@@ -114,10 +114,6 @@ Click Add Transaction
 
 💡 Budget planning module
 
-📸 Screenshots
-
-(Add screenshots here if required)
-
 👩‍💻 Developer
 
 Dhara Parekh
