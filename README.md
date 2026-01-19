@@ -5,10 +5,13 @@ A modern and responsive Money Tracker Dashboard built using HTML, CSS, Bootstrap
 This project helps users track income and expenses, visualize spending patterns, and manage transactions efficiently.
 
 📸 Screenshots
-<img width="1899" height="606" alt="Screenshot 2026-01-19 114345" src="https://github.com/user-attachments/assets/91651807-80b7-4553-b920-1704c778dbd0" />
-<img width="1579" height="699" alt="Screenshot 2026-01-19 114453" src="https://github.com/user-attachments/assets/2f71e973-2e52-4d3e-9135-e12bc5cfa883" />
-<img width="1885" height="410" alt="Screenshot 2026-01-19 114543" src="https://github.com/user-attachments/assets/07b306f1-acb9-4d21-85e1-7c4e3d779168" />
 
+
+<img width="1899" height="606" alt="Screenshot 2026-01-19 114345" src="https://github.com/user-attachments/assets/91651807-80b7-4553-b920-1704c778dbd0" />
+
+<img width="1579" height="699" alt="Screenshot 2026-01-19 114453" src="https://github.com/user-attachments/assets/2f71e973-2e52-4d3e-9135-e12bc5cfa883" />
+
+<img width="1885" height="410" alt="Screenshot 2026-01-19 114543" src="https://github.com/user-attachments/assets/07b306f1-acb9-4d21-85e1-7c4e3d779168" />
 
 
 
